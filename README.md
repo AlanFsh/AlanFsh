@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alanfsh
-- 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Python and Web Development
+- 👀 I’m interested in Programming, Web Development and microcontrollers
+- 🌱 I’m currently learning Python and FastAPI
+- 💞️ I’m looking to collaborate on Python
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanfsh&&show_icons=true&theme=github_dark)
 
